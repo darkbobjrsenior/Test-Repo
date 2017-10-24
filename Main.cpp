@@ -13,5 +13,5 @@ int main(int argc, char *argv[]){
 
 
 int double(int num){
-    return num * 2;
+    return num + 2;
 }
